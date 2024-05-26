@@ -1,0 +1,44 @@
+C:\Kuliah\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.csproj.AssemblyReference.cache
+C:\Kuliah\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.AssemblyInfoInputs.cache
+C:\Kuliah\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.AssemblyInfo.cs
+C:\Kuliah\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.csproj.CoreCompileInputs.cache
+C:\Kuliah\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.exe
+C:\Kuliah\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.deps.json
+C:\Kuliah\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.runtimeconfig.json
+C:\Kuliah\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.dll
+C:\Kuliah\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.pdb
+C:\Kuliah\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.dll
+C:\Kuliah\alpro week 8\alpro week 8\obj\Debug\net6.0\refint\alpro week 8.dll
+C:\Kuliah\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.pdb
+C:\Kuliah\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.genruntimeconfig.cache
+C:\Kuliah\alpro week 8\alpro week 8\obj\Debug\net6.0\ref\alpro week 8.dll
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.exe
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.deps.json
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.runtimeconfig.json
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.dll
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.pdb
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.csproj.AssemblyReference.cache
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.AssemblyInfoInputs.cache
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.AssemblyInfo.cs
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.dll
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\obj\Debug\net6.0\refint\alpro week 8.dll
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.pdb
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.genruntimeconfig.cache
+C:\Kuliah\Semester 1\Alpro visio\alpro week 8\alpro week 8\obj\Debug\net6.0\ref\alpro week 8.dll
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.exe
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.deps.json
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.runtimeconfig.json
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.dll
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\bin\Debug\net6.0\alpro week 8.pdb
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.AssemblyInfoInputs.cache
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.AssemblyInfo.cs
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.dll
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\obj\Debug\net6.0\refint\alpro week 8.dll
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.pdb
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\obj\Debug\net6.0\alpro week 8.genruntimeconfig.cache
+C:\Kuliah\Semester 1\Alpro visual studio\alpro week 8\alpro week 8\obj\Debug\net6.0\ref\alpro week 8.dll
